@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="albumWhite">#FFFFFFFF</color>
+    <color name="albumWhiteGray">#E0E0E0</color>
+    <color name="albumTransparent">#00000000</color>
+    <color name="albumColorPrimary">#2196F3</color>
+    <color name="albumColorPrimaryDark">#1E88E5</color>
+    <color name="albumSheetBackground">#CC2B2B2B</color>
+    <color name="albumTransparentHalf">#20000000</color>
+    <color name="albumPrimaryBlack">#FF2B2B2B</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#f68026</color>
+    <color name="colorAccent">#FF4081</color>
+</resources>
