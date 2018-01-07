@@ -1,19 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml:1:1-19:12
-MERGED from [com.android.support:design:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\8739eb5ffe73b459c9f4949c831e9489\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\c544e5a2a21bc09a969e67b387aa384e\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.1.aar\a94f56b365ec4ef9291aa128af72f403\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-v4:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\1a35e18ccdb96d31d0639991aea5319d\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\284fc987f802f618e05e67d19875393e\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\32007aa1651e203cb378b71c6818562c\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\90a7e91083ff66498111db7d7b62cc96\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\ef9d5769444d3419e8e4dd73b7df5da2\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\86833c51fb4a49efc5cc96cc017e9818\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\faef157866eb4ab429897ec54a47275b\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-compat:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\ea72a7b86ef6be04ca7105d4923a501f\AndroidManifest.xml:17:1-27:12
+ADDED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml:1:1-8:12
+INJECTED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml:1:1-8:12
+INJECTED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml:1:1-8:12
 	package
 		ADDED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml:2:5-35
+		INJECTED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml
+		INJECTED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.CAMERA
@@ -28,78 +21,12 @@ uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 ADDED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml:6:5-81
 	android:name
 		ADDED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml:6:22-78
-application
-ADDED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml:8:5-18:19
-MERGED from [com.android.support:design:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\8739eb5ffe73b459c9f4949c831e9489\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\8739eb5ffe73b459c9f4949c831e9489\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\c544e5a2a21bc09a969e67b387aa384e\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\c544e5a2a21bc09a969e67b387aa384e\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\1a35e18ccdb96d31d0639991aea5319d\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\1a35e18ccdb96d31d0639991aea5319d\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\284fc987f802f618e05e67d19875393e\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\284fc987f802f618e05e67d19875393e\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\32007aa1651e203cb378b71c6818562c\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\32007aa1651e203cb378b71c6818562c\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\90a7e91083ff66498111db7d7b62cc96\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\90a7e91083ff66498111db7d7b62cc96\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\ef9d5769444d3419e8e4dd73b7df5da2\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\ef9d5769444d3419e8e4dd73b7df5da2\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\86833c51fb4a49efc5cc96cc017e9818\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\86833c51fb4a49efc5cc96cc017e9818\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\faef157866eb4ab429897ec54a47275b\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\faef157866eb4ab429897ec54a47275b\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\ea72a7b86ef6be04ca7105d4923a501f\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\ea72a7b86ef6be04ca7105d4923a501f\AndroidManifest.xml:25:5-20
-	android:supportsRtl
-		ADDED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml:11:9-35
-	android:theme
-		ADDED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml:10:9-40
-	android:name
-		ADDED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml:9:9-40
-activity#com.yanzhenjie.album.AlbumActivity
-ADDED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml:12:9-17:20
-	android:name
-		ADDED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml:12:19-48
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml:13:13-16:29
-action#android.intent.action.MAIN
-ADDED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml:14:17-69
-	android:name
-		ADDED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml:14:25-66
-category#android.intent.category.LAUNCHER
-ADDED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml:15:17-77
-	android:name
-		ADDED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml:15:27-74
 uses-sdk
 INJECTED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml
 INJECTED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\8739eb5ffe73b459c9f4949c831e9489\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:design:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\8739eb5ffe73b459c9f4949c831e9489\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\c544e5a2a21bc09a969e67b387aa384e\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\c544e5a2a21bc09a969e67b387aa384e\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.1.aar\a94f56b365ec4ef9291aa128af72f403\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.1.aar\a94f56b365ec4ef9291aa128af72f403\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\1a35e18ccdb96d31d0639991aea5319d\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\1a35e18ccdb96d31d0639991aea5319d\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\284fc987f802f618e05e67d19875393e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\284fc987f802f618e05e67d19875393e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\32007aa1651e203cb378b71c6818562c\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\32007aa1651e203cb378b71c6818562c\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\90a7e91083ff66498111db7d7b62cc96\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\90a7e91083ff66498111db7d7b62cc96\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\ef9d5769444d3419e8e4dd73b7df5da2\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\ef9d5769444d3419e8e4dd73b7df5da2\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\86833c51fb4a49efc5cc96cc017e9818\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\86833c51fb4a49efc5cc96cc017e9818\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\faef157866eb4ab429897ec54a47275b\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\faef157866eb4ab429897ec54a47275b\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\ea72a7b86ef6be04ca7105d4923a501f\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\ea72a7b86ef6be04ca7105d4923a501f\AndroidManifest.xml:21:5-23:58
 INJECTED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml
 INJECTED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml
-	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\c544e5a2a21bc09a969e67b387aa384e\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml
 		ADDED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml

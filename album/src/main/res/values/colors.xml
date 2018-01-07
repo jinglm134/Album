@@ -10,7 +10,7 @@
     <color name="albumTransparentHalf">#20000000</color>
     <color name="albumPrimaryBlack">#FF2B2B2B</color>
 
-    <color name="colorPrimary">#3F51B5</color>
+   <!-- <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#f68026</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">#FF4081</color>-->
 </resources>
