@@ -1,8 +1,8 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml:1:1-8:12
-INJECTED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml:1:1-8:12
-INJECTED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml:1:1-8:12
+ADDED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml:1:1-7:12
 	package
 		ADDED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml:2:5-35
 		INJECTED from D:\android\g_project\Album\album\src\main\AndroidManifest.xml
