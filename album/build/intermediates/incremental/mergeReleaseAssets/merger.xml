@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\android\g_project\Album\album\src\main\assets"/><source path="D:\android\g_project\Album\album\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="D:\android\g_project\Album\album\src\release\assets"/></dataSet></merger>
